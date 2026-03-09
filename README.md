@@ -12,7 +12,7 @@ Programare Avansată pe Obiecte în Java — materiale și resurse pentru cursul
 | Laborator | Subiect |
 |-----------|---------|
 | [laboratory00](src/com/pao/laboratory00/Readme.md) | Primul program, array-uri, Scanner |
-| [laboratory01](src/com/pao/laboratory01/Readme.md) | Clase, încapsulare, Singleton, Comparator |
+| [laboratory01](../lab3/paoj-2026/src/com/pao/laboratory01/Readme.md) | Clase, încapsulare, Singleton, Comparator |
 
 
 ---
