@@ -5,66 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f90e1b7-42ba-446e-b1ce-8ea15c7784af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory00/DiagonaleleMatricei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory00/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory00/MediaAritmetica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/arrays/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/comparators/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/utils/DogComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/abstractclasses/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/abstractclasses/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/abstractclasses/MySqlConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/abstractclasses/OracleConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/equalshashcode/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/equalshashcode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise3/model/Angajat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise3/model/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise3/model/Programator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise3/service/AngajatService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/model/Describable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/model/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/exercise4/service/ZooService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/immutable/ImmutableDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/immutable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pao/laboratory02/strings/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/paoj-2026" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory00/DiagonaleleMatricei.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory00/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory00/MediaAritmetica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory00/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory00/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/arrays/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/comparators/AudioBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/comparators/BookLengthComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/exercise/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/exercise/CarService$Holder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/exercise/CarService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/exercise/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/model/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/model/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paoj-2026/com/pao/laboratory01/utils/DogComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/arrays/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/arrays/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/comparators/AudioBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/comparators/AudioBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/model/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/model/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/model/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/model/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pao/laboratory01/utils/DogComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pao/laboratory01/utils/DogComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ionel\IdeaProjects\laborator" />
       <recent name="C:\Users\ionel\IdeaProjects\laborator\paoj-2026\src\com\pao\laboratory01\exercise" />
     </key>
   </component>
@@ -163,7 +117,7 @@
       <updated>1772432050964</updated>
       <workItem from="1772432055845" duration="3720000" />
       <workItem from="1772690309382" duration="14066000" />
-      <workItem from="1773066333530" duration="674000" />
+      <workItem from="1773066333530" duration="979000" />
     </task>
     <servers />
   </component>
